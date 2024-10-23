@@ -38,13 +38,10 @@ A passionate Flutter Developer and Enthusiast from India
 
 ## 📫 Let's Connect:
 <p align="left">
-    <a href="https://www.linkedin.com/in/nayanparmar/" target="_blank">
+    <a href="https://www.linkedin.com/in/nm-parmar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:youremail@example.com" target="_blank">
+    <a href="mailto:nayanparmar2190@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://twitter.com/yourtwitter" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
 </p>
