@@ -9,15 +9,14 @@ A passionate Flutter Developer and Enthusiast from India
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" alt="iOS"/>
+    <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white" alt="UIKit"/>
+    <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" alt="iOS"/>
-    <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white" alt="UIKit"/>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
 </p>
 
 ## 📊 GitHub Stats:
