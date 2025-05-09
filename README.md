@@ -24,18 +24,18 @@ A passionate Flutter Developer and Enthusiast from India
 
 ## 📊 GitHub Stats:
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ParmarSaheb&show_icons=true&theme=dark&count_private=true" alt="Nayan's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarSaheb&layout=compact&theme=dark" alt="Most used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Parmar24c&show_icons=true&theme=dark&count_private=true" alt="Nayan's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmar24c&layout=compact&theme=dark" alt="Most used languages"/>
 </p>
 
 ## 🔥 Streak Stats:
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParmarSaheb&theme=dark" alt="Nayan's Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmar24c&theme=dark" alt="Nayan's Streak Stats"/>
 </p>
 
 ## 🏆 GitHub Trophies:
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=ParmarSaheb&theme=darkhub&no-bg=true&no-frame=true" alt="Nayan's GitHub trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Parmar24c&theme=darkhub&no-bg=true&no-frame=true" alt="Nayan's GitHub trophies"/>
 </p>
 
 ## 📫 Let's Connect:
